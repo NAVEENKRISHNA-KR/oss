@@ -1,5 +1,7 @@
 hello
 naveen
+<<<<<<< HEAD
 nekelash
 jegan
 end
+
